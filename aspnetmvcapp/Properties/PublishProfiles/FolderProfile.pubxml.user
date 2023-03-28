@@ -4,8 +4,8 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 -->
 <Project>
   <PropertyGroup>
-    <_PublishTargetUrl>C:\Users\Administrator\Source\Repos\aspnetmvcapp\aspnetmvcapp\bin\app.publish\</_PublishTargetUrl>
-    <History>True|2023-03-27T09:01:15.5121133Z;</History>
+    <_PublishTargetUrl>C:\Users\Administrator\source\repos\aspnetmvcapp\aspnetmvcapp\bin\app.publish\</_PublishTargetUrl>
+    <History>True|2023-03-28T07:53:17.5387898Z;True|2023-03-27T18:01:15.5121133+09:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
   <ItemGroup>
@@ -19,10 +19,10 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>09/11/2013 01:29:20</publishTime>
     </File>
     <File Include="bin/aspnetmvcapp.dll">
-      <publishTime>03/27/2023 18:01:06</publishTime>
+      <publishTime>03/28/2023 16:53:15</publishTime>
     </File>
     <File Include="bin/aspnetmvcapp.pdb">
-      <publishTime>03/27/2023 18:01:06</publishTime>
+      <publishTime>03/28/2023 16:53:15</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
       <publishTime>06/27/2017 21:59:34</publishTime>
@@ -370,7 +370,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>03/27/2023 17:42:38</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>03/27/2023 18:01:12</publishTime>
+      <publishTime>03/28/2023 16:53:16</publishTime>
     </File>
   </ItemGroup>
 </Project>
